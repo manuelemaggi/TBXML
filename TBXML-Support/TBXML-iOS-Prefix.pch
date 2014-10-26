@@ -4,4 +4,7 @@
 
 #ifdef __OBJC__
     #import <Foundation/Foundation.h>
+
+    #define ARC_ENABLED 1
+
 #endif
